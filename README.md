@@ -11,4 +11,4 @@ To add your company please add in the following format in Ascending order.
 | Return Zero Infosys Pvt. Ltd. | Satsang Marga, Bharatpur, Chitwan, Nepal |https://www.returnzero.com.np| mailtoreturnzero@gmail.com | 984-5024018 |
 | Maskey Consultancy Services Pvt. Ltd. | Indra Dev Road, Sathi Plaza 3rd Floor, Bharatpur, Chitwan, Nepal |http://www.maskeyconsultancy.com/|  support@maskeyconsultancy.com  | 9801333558 |
 | Salyani Technologies Pvt. Ltd. | Sahajmarga Paribesh Tole, Bharatpur |http://salyani.com.np|info@salyani.com|+977-56-533977|
-
+|Bihani Tech Pvt. Ltd.| New Road, Narayangarh, Chitwan | http://bihanitech.com/| info@bihanitech.com | +977-9845214140 |
